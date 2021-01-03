@@ -19,7 +19,6 @@ import com.orange.talents.meubanco.config.GeneralResponse;
 import com.orange.talents.meubanco.dto.PessoaDTO;
 import com.orange.talents.meubanco.service.PessoaService;
 
-import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
